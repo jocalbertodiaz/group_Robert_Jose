@@ -1,2 +1,3 @@
 #example
+second line added
 not that much to say about the file, its only an example
